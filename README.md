@@ -10,8 +10,8 @@
 <br/>
 
 <!-- Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=AtharvDhane&style=for-the-badge&color=00ff88&labelColor=0d1117)
-[![GitHub followers](https://img.shields.io/github/followers/AtharvDhane?style=for-the-badge&color=00ff88&labelColor=0d1117&logo=github)](https://github.com/AtharvDhane)
+![Profile Views](https://komarev.com/ghpvc/?username=dhaneatharv&style=for-the-badge&color=00ff88&labelColor=0d1117)
+[![GitHub followers](https://img.shields.io/github/followers/dhaneatharv?style=for-the-badge&color=00ff88&labelColor=0d1117&logo=github)](https://github.com/dhaneatharv)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Internships-00ff88?style=for-the-badge&labelColor=0d1117)
 
 </div>
@@ -140,8 +140,8 @@ atharv = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/AtharvDhane)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/AtharvDhane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/atharv-dhane-0944a128b/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/dhaneatharv)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:atharv@example.com)
 
 </div>
