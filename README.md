@@ -96,13 +96,6 @@ atharv = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhaneatharv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaneatharv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=dhaneatharv&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)](https://git.io/streak-stats)
 
 </div>
